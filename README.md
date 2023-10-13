@@ -23,5 +23,6 @@
 
 <h2>Como contactarme</h2>
 <p>Aqui dejo mi correo junto a mi Linkedin</p>
-<p><a href="https://www.linkedin.com/in/kevin-ortiz-b29321276/" target="_blank" rel="noopener noreferrer">Linkedin</a></p>
-<p>kevinor03@gmail.com</p>
+<p><b>Correo: </b>kevinor03@gmail.com</p>
+<p><a href="https://www.linkedin.com/in/kevin-ortiz-b29321276/">Linkedin</a></p>
+
