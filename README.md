@@ -6,10 +6,11 @@
 <p> Mi primer acercamiento a la programacion fue en la escuela con Java, desde ahi supe que me gustaba mucho hacer lineas de codigo como si de un puzzle se tratase.</p>
 
 <h2>Que hago?</h2>
-<p>Actualmente estoy terminando los proyectos finales del bootcamp "Soy Henry", uno de estos es "Proyecto-Individual-Dogs". En un futuro me pondre a realizar proyectos personales por gusto y para poder practicar y aprender nuevas cosas para mi futura carrera.</p>
+<p>Actualmente estoy terminando los proyectos finales del bootcamp "Soy Henry", uno de estos es "Proyecto-Individual-Dogs".</p>
+<p>En un futuro me pondre a realizar proyectos personales por gusto y para poder practicar y aprender nuevas cosas para mi futura carrera.</p>
 
 <h2>Tecnologias que utilizo</h2>
-<p>Estas tecnologias las aprendi en el bootcamp "Soy Henry":</p>
+<p>Estas tecnologias las aprendi en el bootcamp "Soy Henry"</p>
 <ul>
   <li type="disc"><b>Javascript</b></li>
   <li type="disc"><b>React.js</b></li>
